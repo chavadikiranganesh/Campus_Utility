@@ -1,0 +1,4 @@
+.venv/
+*.pyc
+__pycache__/
+Campus_Utility/database/campus_utility.db
